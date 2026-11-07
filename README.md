@@ -6,5 +6,5 @@ I honestly do not know what this is. please please do not use it its a pain to l
 
 ## it destroyed my microcontroller
 
-**DO NOT RUN THE EXAMPLE PLEASE I BEG YOU DONT ITS A LOST CAUSE*
+*DO NOT RUN THE EXAMPLE PLEASE I BEG YOU DONT ITS A LOST CAUSE*
 
